@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: business-analytics-dashboard
+    env: static
+    staticPublishPath: ./
